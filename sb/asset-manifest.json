@@ -1,0 +1,43 @@
+{
+  "files": {
+    "0.4d483cb3.iframe.bundle.js": "./0.4d483cb3.iframe.bundle.js",
+    "main.css": "./static/css/main.6c4e719e.chunk.css",
+    "main.js": "./main.e697b12f.iframe.bundle.js",
+    "main.css.map": "./static/css/main.6c4e719e.chunk.css.map",
+    "runtime~main.js": "./runtime~main.f0aa6101.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.db136888.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.db136888.iframe.bundle.js.map",
+    "4.105c593e.iframe.bundle.js": "./4.105c593e.iframe.bundle.js",
+    "4.105c593e.iframe.bundle.js.map": "./4.105c593e.iframe.bundle.js.map",
+    "5.41842d9d.iframe.bundle.js": "./5.41842d9d.iframe.bundle.js",
+    "6.3d5e209e.iframe.bundle.js": "./6.3d5e209e.iframe.bundle.js",
+    "6.3d5e209e.iframe.bundle.js.map": "./6.3d5e209e.iframe.bundle.js.map",
+    "7.c8dbd830.iframe.bundle.js": "./7.c8dbd830.iframe.bundle.js",
+    "4.105c593e.iframe.bundle.js.LICENSE.txt": "./4.105c593e.iframe.bundle.js.LICENSE.txt",
+    "6.3d5e209e.iframe.bundle.js.LICENSE.txt": "./6.3d5e209e.iframe.bundle.js.LICENSE.txt",
+    "iframe.html": "./iframe.html",
+    "static/media/camera.fa7341ac.svg": "./static/media/camera.fa7341ac.svg",
+    "static/media/close.060bec94.svg": "./static/media/close.060bec94.svg",
+    "static/media/home.1b232b1e.svg": "./static/media/home.1b232b1e.svg",
+    "static/media/icon-available.svg": "./static/media/icon-available.2b85047a.svg",
+    "static/media/icon-country.svg": "./static/media/icon-country.382399a0.svg",
+    "static/media/icon-description.svg": "./static/media/icon-description.4e8dcdf9.svg",
+    "static/media/icon-door-exit.05ed5bd0.svg": "./static/media/icon-door-exit.05ed5bd0.svg",
+    "static/media/icon-email.svg": "./static/media/icon-email.96382582.svg",
+    "static/media/icon-spokenLanguages.svg": "./static/media/icon-spokenLanguages.96f1a436.svg",
+    "static/media/icon-tags.svg": "./static/media/icon-tags.51a8eacb.svg",
+    "static/media/icon-title.svg": "./static/media/icon-title.9599d42d.svg",
+    "static/media/icon-unavailable.svg": "./static/media/icon-unavailable.99f4cacb.svg",
+    "static/media/logo.97b40083.svg": "./static/media/logo.97b40083.svg",
+    "static/media/mentors.e7ee9964.svg": "./static/media/mentors.e7ee9964.svg",
+    "static/media/mentorship.c4978a25.svg": "./static/media/mentorship.c4978a25.svg",
+    "static/media/mentorshipRequestSuccess.534dfc8e.svg": "./static/media/mentorshipRequestSuccess.534dfc8e.svg",
+    "vendors~main.db136888.iframe.bundle.js.LICENSE.txt": "./vendors~main.db136888.iframe.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.f0aa6101.iframe.bundle.js",
+    "vendors~main.db136888.iframe.bundle.js",
+    "static/css/main.6c4e719e.chunk.css",
+    "main.e697b12f.iframe.bundle.js"
+  ]
+}
